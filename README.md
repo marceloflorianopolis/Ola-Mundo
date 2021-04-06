@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Repositório criado durante uma aula ao vido de Git e GitHub.
+ Repositório criado durante uma aula ao vivo de Git e GitHub.
